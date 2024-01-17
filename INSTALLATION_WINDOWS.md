@@ -46,7 +46,7 @@ I will only explain the programming not the compiling so:
 **NOTE:**
 
   - **atarist.fs must be written to 0x000000**
-  - **ST TOS (e.g. 1.04) must be written to 0x10000**
+  - **ST TOS (e.g. 1.04) must be written to 0x100000**
   - **STE TOS (e.g. 2.06) mut be written to 0x140000**
 
 ![](https://github.com/dna2496/MiSTeryNano/blob/main/images/flash_tos_104.png)
